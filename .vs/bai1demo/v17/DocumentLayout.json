@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\bai1demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17040F3C-7532-47DE-9598-46B16F45A842}|bai1demo.csproj|c:\\users\\admin\\source\\repos\\bai1demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17040F3C-7532-47DE-9598-46B16F45A842}|bai1demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17040F3C-7532-47DE-9598-46B16F45A842}|bai1demo.csproj|c:\\users\\admin\\source\\repos\\bai1demo\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17040F3C-7532-47DE-9598-46B16F45A842}|bai1demo.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\bai1demo\\Account.cs",
+              "RelativeDocumentMoniker": "Account.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\bai1demo\\Account.cs",
+              "RelativeToolTip": "Account.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:20:23.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\bai1demo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\bai1demo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:19:56.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

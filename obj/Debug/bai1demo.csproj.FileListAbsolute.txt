@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\bai1demo\obj\Debug\bai1demo.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\bai1demo\obj\Debug\bai1demo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\bai1demo\bin\Debug\bai1demo.exe.config
+C:\Users\Admin\source\repos\bai1demo\bin\Debug\bai1demo.exe
+C:\Users\Admin\source\repos\bai1demo\bin\Debug\bai1demo.pdb
+C:\Users\Admin\source\repos\bai1demo\obj\Debug\bai1demo.exe
+C:\Users\Admin\source\repos\bai1demo\obj\Debug\bai1demo.pdb
